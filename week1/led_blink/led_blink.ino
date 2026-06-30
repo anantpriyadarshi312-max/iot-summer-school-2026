@@ -1,3 +1,9 @@
+/*
+Author: ANANT PRIYADARSHI
+Date: 30-06-2026
+Description: LED blink with serial counter and potentiometer speed control
+*/
+
 int count = 0;
 int potValue = 0;
 int delayTime = 500;

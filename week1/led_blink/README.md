@@ -68,7 +68,7 @@ LED Blink using Arduino UNO
 
 \- Serial Monitor displays blink count.
 
-
+// Fixed potentiometer mapping issue
 
 Example:
 

@@ -1,0 +1,10 @@
+Target: 42 deg  Current: 0.0 deg
+Target: 118 deg  Current: 45.0 deg
+Target: 176 deg  Current: 90.0 deg
+Target: 231 deg  Current: 135.0 deg
+Target: 287 deg  Current: 180.0 deg
+Target: 334 deg  Current: 225.0 deg
+Target: 96 deg  Current: 270.0 deg
+Target: 154 deg  Current: 315.0 deg
+Home Position Set
+Target: 203 deg  Current: 0.0 deg
